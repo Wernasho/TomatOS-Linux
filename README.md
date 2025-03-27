@@ -1,6 +1,10 @@
 # TomatOS-Linux
 TomatOS is a lightweight, comical and minimalistic Linux distro developed mainly on Rust &amp; Python
 
+[![TomatOS Path](https://img.shields.io/badge/Path-$>%23>-brightgreen)]()
+[![Supports Rust](https://img.shields.io/badge/Supports-.rs-orange)]()
+[![License](https://img.shields.io/badge/License-Tomato_Sauce-blue)]()
+
 # A little bit about TomatOS:
 ## Paths.
 
