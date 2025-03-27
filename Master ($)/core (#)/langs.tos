@@ -1,0 +1,6 @@
+{
+  "languages":{
+    "available": ["Esp (Ar)", "Esp", "Eng (US)", "Eng (br)"],
+    "default": "Eng (US)"
+  }
+}

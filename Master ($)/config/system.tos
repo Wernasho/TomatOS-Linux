@@ -1,0 +1,13 @@
+{
+  "os_name": "TomatOS",
+  "version": "0.1",
+  "theme":{
+    "available": ["tomato", "tomato Light"],
+    "default": "tomato",
+    "current": "toamto"
+  },
+  "users": {
+    "users_supported": 1,
+    "has_set_password": false
+  }
+}

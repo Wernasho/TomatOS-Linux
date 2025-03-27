@@ -1,0 +1,21 @@
+{
+  "_comment$": "Este archivo maneja el Kernel. Modifícalo bajo tu propio riesgo",
+  "_comment$>#": "No nos hacemos responsables si terminas convirtiendo tu sistema en salsa",
+  "booting": {
+    "timeout":{
+      "seconds": 15,
+      "message": "Your PC is taking too long to boot up...",
+      "error_id": "TIMEOUT"
+    }
+  },
+  "files": {
+    "sorting_error": {
+      "message": "No {extension} here, only canned TomatOS",
+      "error_id": "INVALID_SORTING"
+    },
+    "unkwnown_extension": {
+      "message": "You have no program that can use this extension, and we have o idea what that is.",
+      "error_id": "NO_"
+    }
+  }
+}
